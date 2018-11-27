@@ -18,3 +18,10 @@ export GOOGLE_APPLICATION_CREDENTIALS=<path to service account key>
 ```
 go run main.go <host-project>
 ```
+
+## Todo
+
+- command line arguments
+    - options for console output and/or markdown files
+- calculate statistics (number of available and used IPs)
+- better feedback for permission issues accessing projects
